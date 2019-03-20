@@ -181,3 +181,250 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aplikasi ini membutuhkan sistem analisis dan administrasi jaringan untuk mengelola aplikasi.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p><strong>BAB V</strong></p>
+<p><strong>PAKET PEKERJAAN</strong></p>
+<p><strong>&nbsp;</strong></p>
+<ul>
+<li><strong>Paket pekerjaan</strong></li>
+</ul>
+<ol>
+<li>Project Manager : Ade Diana Apriliyani</li>
+<li>Mengawasi seluruh proses pengerjaan proyek dan memastikan setiap tahapan pembuatan proyek berjalan sesuai target.</li>
+<li>Mengawasi seluruh personil tim dalam pengerjaan proyek</li>
+<li>Front End : Fiqi Andri Reviasyah</li>
+<li>Membuat Mockup</li>
+<li>Membuat Desain Aplikasi</li>
+<li>Back End : Fany Fahrurozi</li>
+<li>Membuat program untuk fitur- fitur yang ada pada aplikasi agar berfungsi.</li>
+<li>Dokumentasi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Ade Diana Apriliyani</li>
+<li>Membuat dokumen-dokumen yang dibutuhkan dalam proses pembuatan aplikasi.</li>
+</ol>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Ketergantungan/keterkaitan</strong></li>
+</ul>
+<p>Hubungan antara project manager dengan seluruh bagian personal sebagai pengatur semuanya dan memastikan semua langkah yang dilakukan sesuai tujuan pembuatan aplikasi. Back end mengaplikasikan semua fitur yang telah dibuat oleh Fron end dan dokumentasi membuat dokumen dari apa yang dilakukan project manager dan bagian personal lain.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Kebutuhan sumber daya</strong></li>
+</ul>
+<p>Tabel 5.1&nbsp; Kebutuhan Sumber Daya Sofware</p>
+<table width="0">
+<tbody>
+<tr>
+<td width="39">
+<p><strong>No</strong></p>
+</td>
+<td width="219">
+<p><strong>Jenis Software</strong></p>
+</td>
+<td width="219">
+<p><strong>Kebutuhan Software</strong></p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>1</p>
+</td>
+<td width="219">
+<p>Sistem Operasi</p>
+</td>
+<td width="219">
+<p>Windows 10 atau higher</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>2</p>
+</td>
+<td width="219">
+<p>Bahasa Pemrograman</p>
+</td>
+<td width="219">
+<p>Java</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>3</p>
+</td>
+<td width="219">
+<p>Software Pengolah</p>
+</td>
+<td width="219">
+<p>Lravel dan Sublime Text 3</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>4</p>
+</td>
+<td width="219">
+<p>Database Engine</p>
+</td>
+<td width="219">
+<p>MYSQL</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>5</p>
+</td>
+<td width="219">
+<p>Software Pendukung</p>
+</td>
+<td width="219">
+<p>Adobe Photoshop, AdobeXD dan Corel Draw</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Tabel 5.2&nbsp; Kebutuhan Sumber Daya Hardware</p>
+<table width="0">
+<tbody>
+<tr>
+<td width="39">
+<p><strong>No</strong></p>
+</td>
+<td width="215">
+<p><strong>Jenis Hardware</strong></p>
+</td>
+<td width="215">
+<p><strong>Kebutuhan Software</strong></p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>1</p>
+</td>
+<td width="215">
+<p>Processor</p>
+</td>
+<td width="215">
+<p>Minimal Core i3 or higher</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>2</p>
+</td>
+<td width="215">
+<p>Memory (RAM)</p>
+</td>
+<td width="215">
+<p>Minimal 4 GB or higher</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>3</p>
+</td>
+<td width="215">
+<p>Penyimpanan (Harddisk)</p>
+</td>
+<td width="215">
+<p>Minimal 4 GB free space</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>4</p>
+</td>
+<td width="215">
+<p>Monitor</p>
+</td>
+<td width="215">
+<p>Resolusi 1240 x 768 colors 5</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>5</p>
+</td>
+<td width="215">
+<p>Keyboard dan Mouse</p>
+</td>
+<td width="215">
+<p>Compatible with Windows</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Alokasi <em>budget</em> dan sumber daya</strong></li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<p>Tabel 5.4.1 Estimasi Biaya Sofware</p>
+<table width="0">
+<tbody>
+<tr>
+<td width="52">
+<p><strong>No</strong></p>
+</td>
+<td width="420">
+<p><strong>Kebutuhan Software</strong></p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>1</p>
+</td>
+<td width="420">
+<p>Windows 10 atau higher</p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>2</p>
+</td>
+<td width="420">
+<p>Laravel</p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>3</p>
+</td>
+<td width="420">
+<p>Microsoft Office</p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>4</p>
+</td>
+<td width="420">
+<p>Adobe XD</p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>5</p>
+</td>
+<td width="420">
+<p>Corel Draw X7</p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>6</p>
+</td>
+<td width="420">
+<p>Sublime Text 3</p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>7</p>
+</td>
+<td width="420">
+<p>MYSQL</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
