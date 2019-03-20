@@ -118,3 +118,38 @@
 </tbody>
 </table>
 <p><strong>&nbsp;</strong></p>
+<p style="text-align: center;"><strong>BAB III</strong></p>
+<p style="text-align: center;"><strong>PROSES MANAJERIAL</strong></p>
+<p><strong>3.1 Tujuan dan prioritas manajemen</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jadwal dan <em>budget</em> yang sudah dibuat tujuannya agar aplikasi yang kami buat berkualitas dan bermanfaat. Prioritas aplikasi pada desain sistem. dan untuk budget yang diprioritaskan pada bagian back end.</p>
+<p><strong>3.2 Asumsi, keterkaitan, dan batasan</strong></p>
+<ol>
+<li>Asumsi</li>
+</ol>
+<p>Di Indramayu banyak terdapat makanan khas Indramayu sebagai oleh-oleh ketika mengunjungi Kota Indramayu. Namun sistem pemasarannya masih manual. Sehingga kami menilai kurang efektif dan modern. Karena hal itu kami ingin membuat aplikasi mangolineshop untuk membuat sistem pada UKM Kenanga Mandiri berbasis mobile yang lebih modern.</p>
+<ol start="2">
+<li>Keterkaitan</li>
+</ol>
+<p>Keterkaitan dalam pembuatan aplikasi ini adalah ketersediaan alat yang ada.</p>
+<ol start="3">
+<li>Batasan</li>
+<li>E-Commerce berbasis mobile</li>
+<li>Untuk pemesanan diluar dan didalam Indramayu.</li>
+</ol>
+<p><strong>3.3</strong> <strong>Manajemen resiko</strong></p>
+<ol>
+<li>Terjadi kesalahan pencatatan admin</li>
+<li>Terjadinya kesalahan perhitungan laporan keuangan karena kesalahan rumus dalam program</li>
+<li>Tidak berfungsinya suatu fitur dalam aplikasi</li>
+</ol>
+<p><strong>3.4 Mekanisme monitoring dan kontroling</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitoring dan kontroling dilakukan dengan cara mengadakan rapat apabila ada sesuatu yang salah mengenai aplikasi maupun personal.</p>
+<p><strong>3.5 Perencanaan staf</strong></p>
+<ol>
+<li>Ketua Tim : Diyanto</li>
+<li>Front End : Juan Julianto</li>
+<li>Back End : Diyanto</li>
+<li>Dokumentasi : Agung Yoga</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
