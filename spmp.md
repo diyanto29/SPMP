@@ -153,3 +153,31 @@
 </ol>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p style="text-align: center;"><strong>BAB IV</strong></p>
+<p style="text-align: center;"><strong>PROSES TEKNIS</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aplikasi ini menggunakan pemrograman berbasis mobile dengan tampilan yang sederhana sehingga mudah digunakan dan aplikasi ini dapat memberikan update data yang real-time sehingga memberikan informasi yang akurat.</p>
+<p><strong>4.1 Metoda, <em>tools</em>, dan teknik</strong></p>
+<ol>
+<li>Metoda</li>
+</ol>
+<p>Metoda yang digunakan untuk pembuatan aplikasi ini adalah dengan mengamati kebutuhan, mendesain, implementasi, integrase, dan uji coba.</p>
+<ol start="2">
+<li>Tools</li>
+</ol>
+<p>Tools yang digunakan dalam pembuatan aplikasi ini antara lain : XAMPP, Sublime Text 3, Android Studio, Laravel, Browser, Adobe XD, CorelDraw, Photoshop.</p>
+<ol start="3">
+<li>Teknik</li>
+</ol>
+<p>Teknik yang digunakan untuk membuat aplikasi ini adalah dengan menganalisis kebutuhan, kemudian melakukan implementasi terhadap hasil analisis tersebut, dan melakukan uji coba untuk memeriksa kelayakan aplikasi.</p>
+<p><strong>4.2 Dokumentasi perangkat lunak</strong></p>
+<p>Untuk menjamin kualitas aplikasi yang dibuat kami menggunakan cara:</p>
+<ol>
+<li>Melakukan analisa kebutuhan</li>
+<li>Mengimplementasikan kedalam aplikasi</li>
+<li>Melakukan uji coba ketika ada perubahan</li>
+</ol>
+<p>&nbsp;4.3 <strong>Fungsi-fungsi pendukung proyek</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aplikasi ini membutuhkan sistem analisis dan administrasi jaringan untuk mengelola aplikasi.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
