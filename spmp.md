@@ -1,4 +1,4 @@
-<p style="text-align: center;"><strong>BAB I</strong></p>
+<p style="text-align: center;"><center><strong>BAB I</strong></center></p>
 <p style="text-align: center;"><strong>PENDAHULUAN</strong></p>
 <p><strong>&nbsp; 1.1&nbsp;</strong><strong>Gambaran Proyek</strong></p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Aplikasi Penjualan Olahan Mangga Indramayu Berbasis&nbsp;Mobile (MANGOLINESHP) adalah salah satu jenis aplikasi perangkat lunak yang dapat digunakan untuk membantu&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;proses penjualan olahan secara online. Selama ini pemasaran olahan mangga khas Indramayu dipasarkan secara konvensional yaitu dijual di toko sekitar Indramayu saja.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Pemasaran olahan mangga Indramayu pun kurang berkembang karena pembeli harus datang ke toko. Oleh karena itu olahan mangga&nbsp; khas Indramayu pun yang mengenal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;hanya orang-orang yang singgah atau berwisata ke Indramayu saja. Sehingga kami berinisiatif untuk membuat sebuah wadah yang didalamnya terdapat lapak-lapak penjual&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;olahan mangga dalam bentuk aplikasi berbasis mobile. Dibuatnya aplikasi ini kami bisa membantu pemasaran dari penjual olahan mangga Indramayu serta mempromosikan&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;tentang keberagaman olahan mangga yang ada di Indramayu dan membantu pembeli dalam transaksi dalam mencari produk oahan mangga khas indramayu tanpa harus keluar&nbsp; &nbsp; &nbsp;rumah.</p>
@@ -188,15 +188,15 @@
 <li><strong>Paket pekerjaan</strong></li>
 </ul>
 <ol>
-<li>Project Manager : Ade Diana Apriliyani</li>
+<li>Project Manager : Diyanto</li>
 <li>Mengawasi seluruh proses pengerjaan proyek dan memastikan setiap tahapan pembuatan proyek berjalan sesuai target.</li>
 <li>Mengawasi seluruh personil tim dalam pengerjaan proyek</li>
-<li>Front End : Fiqi Andri Reviasyah</li>
+<li>Front End : Juan Juliyanto</li>
 <li>Membuat Mockup</li>
 <li>Membuat Desain Aplikasi</li>
-<li>Back End : Fany Fahrurozi</li>
+<li>Back End : Diyanto</li>
 <li>Membuat program untuk fitur- fitur yang ada pada aplikasi agar berfungsi.</li>
-<li>Dokumentasi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Ade Diana Apriliyani</li>
+<li>Dokumentasi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Agung Yoga</li>
 <li>Membuat dokumen-dokumen yang dibutuhkan dalam proses pembuatan aplikasi.</li>
 </ol>
 <p>&nbsp;</p>
@@ -420,6 +420,14 @@
 <tr>
 <td width="52">
 <p>7</p>
+</td>
+<td width="420">
+<p>Andoid Studio</p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>8</p>
 </td>
 <td width="420">
 <p>MYSQL</p>
