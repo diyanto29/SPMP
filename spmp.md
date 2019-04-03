@@ -237,3 +237,89 @@
 <li>Bertanggung jawab dalam pembuatan ERD</li>
 <li>Bertanggung jawab dalam pembuatan DFD</li>
 </ol>
+<p align="center"><b><font size="5">BAB III</font></b><br>
+<b><font size="3">PROSES MANAJERIAL</font></b></p>
+<p><strong>&nbsp;</strong></p>
+<ul>
+<li><strong>Tujuan dan prioritas manajemen</strong></li>
+</ul>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jadwal dan <em>budget</em> yang sudah dibuat tujuannya agar aplikasi yang kami buat berkualitas dan bermanfaat. Prioritas aplikasi pada desain sistem. dan untuk budget yang diprioritaskan pada bagian back end.</p>
+<p><strong>&nbsp;</strong></p>
+<ul>
+<li><strong>Asumsi, keterkaitan, dan batasan</strong></li>
+</ul>
+<ol>
+<li>Asumsi</li>
+</ol>
+<p>Di Indramayu banyak terdapat makanan khas Indramayu sebagai oleh-oleh ketika mengunjungi Kota Indramayu. Namun sistem pemasarannya masih manual. Sehingga kami menilai kurang efektif dan modern. Karena hal itu kami ingin membuat aplikasi mangolineshop untuk membuat sistem pada UKM Kenanga Mandiri berbasis mobile yang lebih modern.</p>
+<ol start="2">
+<li>Keterkaitan</li>
+</ol>
+<p>Keterkaitan dalam pembuatan aplikasi ini adalah ketersediaan alat yang ada.</p>
+<ol start="3">
+<li>Batasan</li>
+<li>E-kCommerce berbasis Mobile</li>
+<li>Untuk pemesanan diluar dan didalam Indramayu.</li>
+</ol>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Manajemen resiko</strong></li>
+</ul>
+<ol>
+<li>Terjadi kesalahan pencatatan admin</li>
+<li>Terjadinya kesalahan perhitungan laporan keuangan karena kesalahan rumus dalam program</li>
+<li>Tidak berfungsinya suatu fitur dalam aplikasi</li>
+</ol>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Mekanisme monitoring dan kontroling</strong></li>
+</ul>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitoring dan kontroling dilakukan dengan cara mengadakan rapat apabila ada sesuatu yang salah mengenai aplikasi maupun personal.</p>
+<p><strong>&nbsp;</strong></p>
+<ul>
+<li><strong>Perencanaan staf</strong></li>
+</ul>
+<ol>
+<li>Ketua Tim : Diyanto</li>
+<li>Front End : Agung Yoga(Mobile), Diyanto(Mobile),&nbsp; Juan Juliyanto(Web)</li>
+<li>Back End : Diyanto (Mobile), Juan Juliyanto(Web)</li>
+<li>Dokumentasi : Agung Yoga,Juan Juliyanto</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p align="center"><b><font size="5">BAB IV</font></b><br>
+<b><font size="3">PROSES TEKNIS</font></b></p>
+<p><strong>&nbsp;</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aplikasi ini menggunakan pemrograman berbasis mobile dengan tampilan yang sederhana sehingga mudah digunakan dan aplikasi ini dapat memberikan update data yang real-time sehingga memberikan informasi yang akurat.</p>
+<ul>
+<li><strong>Metoda, <em>tools</em>, dan teknik</strong></li>
+</ul>
+<ol>
+<li>Metoda</li>
+</ol>
+<p>Metoda yang digunakan untuk pembuatan aplikasi ini adalah dengan mengamati kebutuhan, mendesain, implementasi, integrase, dan uji coba.</p>
+<ol start="2">
+<li>Tools</li>
+</ol>
+<p>Tools yang digunakan dalam pembuatan aplikasi ini antara lain : XAMPP, Android Studio, Sublime Text 3, Laravel, Browser, Adobe XD, CorelDraw,Photoshop.</p>
+<ol start="3">
+<li>Teknik</li>
+</ol>
+<p>Teknik yang digunakan untuk membuat aplikasi ini adalah dengan menganalisis kebutuhan, kemudian melakukan implementasi terhadap hasil analisis tersebut, dan melakukan uji coba untuk memeriksa kelayakan aplikasi.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Dokumentasi perangkat lunak</strong></li>
+</ul>
+<p>Untuk menjamin kualitas aplikasi yang dibuat kami menggunakan cara:</p>
+<ol>
+<li>Melakukan analisa kebutuhan</li>
+<li>Mengimplementasikan kedalam aplikasi</li>
+<li>Melakukan uji coba ketika ada perubahan</li>
+</ol>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Fungsi-fungsi pendukung proyek</strong></li>
+</ul>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aplikasi ini membutuhkan sistem analisis dan administrasi jaringan untuk mengelola aplikasi.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
