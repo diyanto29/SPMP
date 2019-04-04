@@ -323,3 +323,911 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aplikasi ini membutuhkan sistem analisis dan administrasi jaringan untuk mengelola aplikasi.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p align="center"><b><font size="5">BAB V</font></b><br>
+<b><font size="3">PAKET PEKERJAAN</font></b></p>
+<p><strong>&nbsp;</strong></p>
+<ul>
+<li><strong>Paket pekerjaan</strong></li>
+</ul>
+<ol>
+<li>Project Manager : Diyanto</li>
+<li>Mengawasi seluruh proses pengerjaan proyek dan memastikan setiap tahapan pembuatan proyek berjalan sesuai target.</li>
+<li>Mengawasi seluruh personil tim dalam pengerjaan proyek</li>
+<li>Front End : Agung Yoga(Mobile), Diyanto(Mobile), Juan Juliyanto(Web).</li>
+<li>Membuat Mockup</li>
+<li>Membuat Desain Aplikasi</li>
+<li>Back End : Juan Juliyanto(Web), Diyanto(Mobile)</li>
+<li>Membuat program untuk fitur- fitur yang ada pada aplikasi agar berfungsi.</li>
+<li>Dokumentasi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Agung Yoga, Juan Juliyanto</li>
+<li>Membuat dokumen-dokumen yang dibutuhkan dalam proses pembuatan aplikasi.</li>
+</ol>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Ketergantungan/keterkaitan</strong></li>
+</ul>
+<p>Hubungan antara project manager dengan seluruh bagian personal sebagai pengatur semuanya dan memastikan semua langkah yang dilakukan sesuai tujuan pembuatan aplikasi. Back end mengaplikasikan semua fitur yang telah dibuat oleh Fron end dan dokumentasi membuat dokumen dari apa yang dilakukan project manager dan bagian personal lain.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Kebutuhan sumber daya</strong></li>
+</ul>
+<p>Tabel 5.1&nbsp; Kebutuhan Sumber Daya Sofware</p>
+<table width="478">
+<tbody>
+<tr>
+<td width="39">
+<p><strong>No</strong></p>
+</td>
+<td width="219">
+<p><strong>Jenis Software</strong></p>
+</td>
+<td width="219">
+<p><strong>Kebutuhan Software</strong></p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>1</p>
+</td>
+<td width="219">
+<p>Sistem Operasi</p>
+</td>
+<td width="219">
+<p>Windows 10 atau higher</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>2</p>
+</td>
+<td width="219">
+<p>Bahasa Pemrograman</p>
+</td>
+<td width="219">
+<p>Java</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>3</p>
+</td>
+<td width="219">
+<p>Software Pengolah</p>
+</td>
+<td width="219">
+<p>Laravel dan Sublime Text 3</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>4</p>
+</td>
+<td width="219">
+<p>Database Engine</p>
+</td>
+<td width="219">
+<p>MYSQL</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>5</p>
+</td>
+<td width="219">
+<p>Software Pendukung</p>
+</td>
+<td width="219">
+<p>Adobe Photoshop, AdobeXD dan Corel Draw</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Tabel 5.2&nbsp; Kebutuhan Sumber Daya Hardware</p>
+<table width="468">
+<tbody>
+<tr>
+<td width="39">
+<p><strong>No</strong></p>
+</td>
+<td width="215">
+<p><strong>Jenis Hardware</strong></p>
+</td>
+<td width="215">
+<p><strong>Kebutuhan Software</strong></p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>1</p>
+</td>
+<td width="215">
+<p>Processor</p>
+</td>
+<td width="215">
+<p>Minimal Core i3 or higher</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>2</p>
+</td>
+<td width="215">
+<p>Memory (RAM)</p>
+</td>
+<td width="215">
+<p>Minimal 4 GB or higher</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>3</p>
+</td>
+<td width="215">
+<p>Penyimpanan (Harddisk)</p>
+</td>
+<td width="215">
+<p>Minimal 4 GB free space</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>4</p>
+</td>
+<td width="215">
+<p>Monitor</p>
+</td>
+<td width="215">
+<p>Resolusi 1240 x 768 colors 5</p>
+</td>
+</tr>
+<tr>
+<td width="39">
+<p>5</p>
+</td>
+<td width="215">
+<p>Keyboard dan Mouse</p>
+</td>
+<td width="215">
+<p>Compatible with Windows</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Alokasi <em>budget</em> dan sumber daya</strong></li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<p>Tabel 5.4.1 Estimasi Biaya Sofware</p>
+<table width="473">
+<tbody>
+<tr>
+<td width="52">
+<p><strong>No</strong></p>
+</td>
+<td width="420">
+<p><strong>Kebutuhan Software</strong></p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>1</p>
+</td>
+<td width="420">
+<p>Windows 10 atau higher</p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>2</p>
+</td>
+<td width="420">
+<p>Laravel</p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>3</p>
+</td>
+<td width="420">
+<p>Microsoft Office</p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>4</p>
+</td>
+<td width="420">
+<p>Adobe XD</p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>5</p>
+</td>
+<td width="420">
+<p>Corel Draw X7</p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>6</p>
+</td>
+<td width="420">
+<p>Sublime Text 3</p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>7</p>
+</td>
+<td width="420">
+<p>MYSQL</p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p>8</p>
+</td>
+<td width="420">
+<p>Android Studio</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Estimasi Biaya Hardware</strong></li>
+</ul>
+<p>Tabel 5.4.2&nbsp; Estimasi Biaya Hardware</p>
+<table width="406">
+<tbody>
+<tr>
+<td width="34">
+<p>No</p>
+</td>
+<td width="129">
+<p>Jenis Hardware</p>
+</td>
+<td width="243">
+<p>Kebutuhan Hardware</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" width="34">
+<p><strong>1</strong></p>
+</td>
+<td rowspan="6" width="129">
+<p><strong>PC</strong></p>
+</td>
+<td width="243">
+<p><strong>Minimal Core i3 or higher</strong></p>
+</td>
+</tr>
+<tr>
+<td width="243">
+<p>Minimal RAM 4 GB or higher</p>
+</td>
+</tr>
+<tr>
+<td width="243">
+<p>Minimal 4 GB free Space Storage</p>
+</td>
+</tr>
+<tr>
+<td width="243">
+<p>Resolusi 1240 x 768 colors 5</p>
+</td>
+</tr>
+<tr>
+<td width="243">
+<p>Keyboard</p>
+</td>
+</tr>
+<tr>
+<td width="243">
+<p>Mouse</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" width="34">
+<p><strong>2</strong></p>
+</td>
+<td rowspan="4">
+<p><strong>SmartPhone</strong></p>
+</td>
+<td width="243">
+<p>Minimal Procesor MTK</p>
+</td>
+</tr>
+<tr>
+<td width="243">
+<p>Minimal RAM 1 GB</p>
+</td>
+</tr>
+<tr>
+<td width="243">
+<p>Resolusi HD</p>
+</td>
+</tr>
+<tr>
+<td width="243">
+<p>Memori Internal 4 GB</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Estimasi Biaya Lain- Lain</strong></li>
+</ul>
+<table width="397">
+<tbody>
+<tr>
+<td width="34">
+<p><strong>No</strong></p>
+</td>
+<td width="128">
+<p><strong>Keterangan</strong></p>
+</td>
+<td width="235">
+<p><strong>Biaya</strong></p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>1</p>
+</td>
+<td width="128">
+<p>Survei ke mitra</p>
+</td>
+<td width="235">
+<p>100.000</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>2</p>
+</td>
+<td>
+<p>Dokumentasi</p>
+</td>
+<td width="235">
+<p>200.000</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>3</p>
+</td>
+<td>
+<p>1 Unit PC</p>
+</td>
+<td width="235">
+<p>3.000.000</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>4</p>
+</td>
+<td>
+<p>Hosting+Domain</p>
+</td>
+<td width="235">
+<p>200.000</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>5</p>
+</td>
+<td>
+<p>Lain-lain</p>
+</td>
+<td width="235">
+<p>150.000</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="162">
+<p>Total</p>
+</td>
+<td width="235">
+<p>3.650.000</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Tabel 5.4.3&nbsp; Estimasi Biaya Lain- Lain</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<ul>
+<li><strong>Jadwal</strong></li>
+</ul>
+<table width="482">
+<tbody>
+<tr>
+<td rowspan="2" width="36">
+<p><strong>No</strong></p>
+</td>
+<td rowspan="2" width="143">
+<p><strong>Kegiatan</strong></p>
+</td>
+<td colspan="16" width="302">
+<p><strong>Bulan</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="85">
+<p><strong>Februari</strong></p>
+</td>
+<td colspan="4" width="76">
+<p><strong>Maret</strong></p>
+</td>
+<td colspan="4" width="76">
+<p><strong>April</strong></p>
+</td>
+<td colspan="4" width="66">
+<p><strong>Mei</strong></p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>1</p>
+</td>
+<td width="143">
+<p>Perencanaan Judul</p>
+</td>
+<td width="28">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>2</p>
+</td>
+<td width="143">
+<p>Survey ke mitra kafe dan proposal</p>
+</td>
+<td width="28">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>3</p>
+</td>
+<td width="143">
+<p>Pembuatan alur system</p>
+</td>
+<td width="28">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>4</p>
+</td>
+<td width="143">
+<p>Pembuatan Mockup</p>
+</td>
+<td width="28">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>5</p>
+</td>
+<td width="143">
+<p>Desain Layout</p>
+</td>
+<td width="28">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>6</p>
+</td>
+<td width="143">
+<p>Proses pembuatan program</p>
+</td>
+<td width="28">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>7</p>
+</td>
+<td width="143">
+<p>Testing dan perbaikan</p>
+</td>
+<td width="28">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>8</p>
+</td>
+<td width="143">
+<p>Pembuatan Laporan</p>
+</td>
+<td width="28">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="16">
+<p>&nbsp;</p>
+</td>
+<td width="19">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
