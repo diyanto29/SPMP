@@ -752,4 +752,4 @@
 <ul>
 <li><strong>Jadwal</strong></li>
 </ul>
-<p align="left"><img src="Gambar/POLINDRA.png" width="800" height="600"></p>
+<p align="left"><img src="Gambar/jadwal.png" width="800" height="600"></p>
